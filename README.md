@@ -1,6 +1,6 @@
 # Course Repository for T-488-MAPP
 ## By Edda Steinunn Rúnarsdóttir
-#### Includes course weekly projects under ./Projects (EXCEPT the Xamarin Forms project which resides at "https://github.com/eddast/T-488-MAPP-Xamarin-Forms") and some code done in class from lecture material under ./Lecture Codes
+#### Includes course weekly projects under ./Projects (except the Xamarin Forms project which resides at [this GitHub repository](https://github.com/eddast/T-488-MAPP-Xamarin-Forms)) and some code done in class from lecture material under ./Lecture Codes
 
 ## Week 1: Xamarin.iOS project - Visual Demonstration and Information
 In the first week of the course T-488-MAPP an Xamarin.iOS project was implemented in C# via Visual Studio. The project's function was built throughout one week, with some new functionalities every day.  Git was used as a version control tool throughout the week, hence this repository contains change history of this project throughout this entire week, making prior functionalities that may have been omitted available.
